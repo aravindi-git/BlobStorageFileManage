@@ -1,0 +1,18 @@
+
+<div class="row">
+    <div class="col-md-3">
+      <input type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
+      <button type="button" class="btn btn-sm btn-success" (click)="file.click()">Upload File</button>
+    </div>
+    <div class="col-md-4">
+      <div  class="upload" *ngIf="isUploadInprogress"
+      class="progress-bar progress-bar-success progress-bar-striped"
+      role="progressbar"
+      attr.aria-valuenow="{{ progress }}"
+      aria-valuemin="0"
+      aria-valuemax="100"
+      [ngStyle]="{ width: progress + '%' }">
+      {{ progress }}%
+    </div>
+    </div>
+  </div>

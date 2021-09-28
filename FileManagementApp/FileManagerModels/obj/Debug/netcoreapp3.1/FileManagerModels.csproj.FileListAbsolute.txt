@@ -1,0 +1,9 @@
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\bin\Debug\netcoreapp3.1\FileManagerModels.deps.json
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\bin\Debug\netcoreapp3.1\FileManagerModels.dll
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\bin\Debug\netcoreapp3.1\FileManagerModels.pdb
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.csprojAssemblyReference.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.AssemblyInfoInputs.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.AssemblyInfo.cs
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.csproj.CoreCompileInputs.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.dll
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManagerModels\obj\Debug\netcoreapp3.1\FileManagerModels.pdb

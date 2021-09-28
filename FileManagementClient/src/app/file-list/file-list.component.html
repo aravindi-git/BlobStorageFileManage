@@ -1,0 +1,30 @@
+
+
+<div class="container container-fluid">
+    <div  class="subarea"> 
+        <app-file-upload  (onUploadFinished)="uploadFinished($event)"></app-file-upload>
+    </div>
+  
+    <div class="subarea">
+        <table class="table table-bordered" >
+            <thead class="thead-dark">
+            <tr>
+                <th scope="col">File</th>
+                <th scope="col">Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let file of filesList">
+                <td>{{file}}</td>
+                <td> 
+                <button class="btn btn-sm btn-success" (click)="downloadFile(file)" style="margin-right: 10px;">Download</button>
+                <button class="btn btn-sm btn-primary" (click)="viewFile(file)"  style="margin-right: 10px;">View</button>
+                <button class="btn btn-sm btn-warning" (click)="deleteFile(file)">Delete</button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+  
+</div>
+  

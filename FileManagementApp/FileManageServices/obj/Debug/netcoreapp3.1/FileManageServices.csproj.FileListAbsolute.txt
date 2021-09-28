@@ -1,0 +1,12 @@
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.csprojAssemblyReference.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.AssemblyInfoInputs.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.AssemblyInfo.cs
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.csproj.CoreCompileInputs.cache
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\bin\Debug\netcoreapp3.1\FileManageServices.deps.json
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\bin\Debug\netcoreapp3.1\FileManageServices.dll
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\bin\Debug\netcoreapp3.1\FileManageServices.pdb
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\bin\Debug\netcoreapp3.1\FileManagerModels.dll
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\bin\Debug\netcoreapp3.1\FileManagerModels.pdb
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.csproj.CopyComplete
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.dll
+E:\Projects\MySamples\FileUploadSelfProject\FileManagementApp\FileManageServices\obj\Debug\netcoreapp3.1\FileManageServices.pdb
